@@ -5,7 +5,7 @@
 ### 🚀 CSE Student | AI & ML Enthusiast | Full Stack Developer | Agentic AI Builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayakbag)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/addy12bag)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sayCode-sketch)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayakbag0@gmail.com)
 
 </div>
@@ -86,8 +86,8 @@
 
 <div align="center">
 
-![Sayak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=addy12bag&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=addy12bag&layout=compact&theme=tokyonight&hide_border=true)
+![Sayak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayCode-sketch&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayCode-sketch&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
