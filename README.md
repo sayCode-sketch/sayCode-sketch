@@ -84,12 +84,15 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=addy12bag&theme=tokyonight&hide_border=true" />
+</p>
 
-![Sayak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayCode-sketch&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayCode-sketch&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=addy12bag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addy12bag&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
